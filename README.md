@@ -10,14 +10,5 @@
  6. give the user their winnings
  7. play again
 
-## Set up the env 
-
-npm init
-
- ## to run the Game 
-
- node projects.js
-
-
  ## Author
 SAFA IDAM HAMED
